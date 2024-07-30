@@ -1,0 +1,5 @@
+08531,DMU,PSA,VSKP,5:00 AM,9:20 AM,Runs Daily,Passenger,50,--
+17015,Visakha Express,VSKP,SC(secunderabad jn),4:30 PM,7:30 AM,Runs Daily,Express,210,420
+17488,Tirumala Express,VSKP,TPTY,2:00 PM,4:05 AM,Runs Daily,Express,220,440
+18530,Durg Express,VZM,BPHP(Bhilai),6:10 PM,5:10 AM,Runs Daily,Express,160,320
+18526,Brahmapur Intercity Express,VSKP,BAM,3:00 PM,6:20 PM,Runs Daily,Express,105,--

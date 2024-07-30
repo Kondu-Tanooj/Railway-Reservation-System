@@ -1,0 +1,14 @@
+1000,Tanooj
+350,Tanooj
+3000,Tanooj
+1000,Tanoosh
+234,Krishna
+1000,Tanoosh
+10000,Krishna
+3500,Sasi
+1000,Tanoosh
+2000,Sanjay
+500,Tanooj
+3000,Tanooj
+10000,Tanooj
+120,Tanooj
